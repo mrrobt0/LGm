@@ -1,9 +1,9 @@
 {
-    "name": "سورس ميوزك فريدوم",
+    "name": "سورس ميوزك ايزيل",
     "description": "سورس فريدوم لتشغيل الاغاني , رائع انت تستخدم احدث اصدار !",
     "logo": "https://te.legra.ph/file/4807752a011965b771900.jpg",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/STKR2/LG",
+    "repository": "https://github.com/mrrobt0/LGm",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
